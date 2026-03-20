@@ -1,4 +1,4 @@
-name: knockoff_side
+name: twasknockoff
 channels:
   - conda-forge
   - bioconda
